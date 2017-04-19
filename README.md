@@ -1,4 +1,4 @@
-# GraphDB
+# SubgraphMatching
 Subgraph matching algorithms and improvements
 <br>
 This repository has implementation of subgraph matching algorithms and improvements like <br>
